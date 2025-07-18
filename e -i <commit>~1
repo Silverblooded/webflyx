@@ -1,0 +1,43 @@
+[33mcommit d9dfedba44fa63b71dc629d76e603ba53134ded6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_titles[m[33m)[m
+Author: Silverblooded <Bladehornsby@live.com>
+Date:   Fri Jul 11 04:04:39 2025 -0500
+
+    G: update_titles
+
+[33mcommit fad46c1d4e5561993a2dd7854ed794bff197e4ea[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 2789e5e cf0b325
+Author: Silverblooded <Bladehornsby@live.com>
+Date:   Fri Jul 11 03:53:07 2025 -0500
+
+    Merge branch 'add_classics'
+    F: Merge branch 'add_classics'
+
+[33mcommit 2789e5e071736992d9299d85daebc08c9cb77253[m
+Author: Silverblooded <Bladehornsby@live.com>
+Date:   Thu Jul 10 19:37:29 2025 -0500
+
+    E: add contents
+
+[33mcommit cf0b325d011e4f203dd94677e942fa648d420507[m
+Author: Silverblooded <Bladehornsby@live.com>
+Date:   Thu Jul 10 19:15:44 2025 -0500
+
+    D: add_classics.csv
+
+[33mcommit 99c7cbdeba519f5754b685f7ca3d3021da1cf434[m
+Author: Silverblooded <Bladehornsby@live.com>
+Date:   Tue Jul 8 09:37:48 2025 -0500
+
+    C: add quotes
+
+[33mcommit 4ffb4a9f9aa7307c952c2b68a9bf864845962bfb[m
+Author: Silverblooded <Bladehornsby@live.com>
+Date:   Tue Jul 8 08:52:42 2025 -0500
+
+    B: add titles
+
+[33mcommit 8cf9cc2a85737aba134eab80d856ca0ff72b5ac6[m
+Author: Silverblooded <Bladehornsby@live.com>
+Date:   Tue Jul 8 00:26:06 2025 -0500
+
+    A: add contents.md
